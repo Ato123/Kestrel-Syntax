@@ -1,0 +1,14 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v4.3.1
+_src_path: https://github.com/jupyterlab/extension-template
+author_email: aalvarez67@gatech.edu
+author_name: Alberto Alvarez
+has_binder: false
+has_settings: false
+kind: frontend
+labextension_name: kestrel-syntax-ext
+project_short_description: Provides syntax highlighting & autocompletion for Kestrel
+python_name: kestrel_syntax_ext
+repository: https://github.com/Ato123/Kestrel-Syntax
+test: true
+
